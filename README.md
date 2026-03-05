@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on projects where I can apply my knowledge of C++ and Java
 - 💬 Suggest to me (How to master AI?)
 - 📫 How to reach me: Email- tameem.raihan@gmail.com
-- ⚡ Check my other git account: tameemraihan, my personal git account
+- ⚡ Check my other git account: tameemraihan, my personal git account<br>
 Thanks for visiting my profile.
